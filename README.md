@@ -39,6 +39,13 @@ I've worked as an HTML and CSS programmer for a year so I didn't know anything n
 ---
 
 ## 4. Responsive Web Design
+![Alt text](task_responsive_web_design/1.png "Screenshot")
+![Alt text](task_responsive_web_design/2.png "Screenshot")
+
+As I've said in the previous task, I know HTML and CSS very very well and I didn't know anything new from this task. But I really liked "Grid garden" and "Froggy" games. I think it's a very good way for new students to learn HTML and CSS.
+
+---
+
 ## 5. HTML & CSS Practice
 ## 6. JavaScript Basics
 ## 7. Document Object Model
