@@ -31,6 +31,13 @@ By the way, I passed all the tasks a few days ago but forgot to take a screensho
 
 
 ## 3. Intro to HTML & CSS
+![Alt text](task_html_css_intro/1.png "Screenshot")
+![Alt text](task_html_css_intro/2.png "Screenshot")
+
+I've worked as an HTML and CSS programmer for a year so I didn't know anything new from these tasks. But I really liked the way they're giving information, I think this course is beneficial for people who're just starting to learn HTML and CSS
+
+---
+
 ## 4. Responsive Web Design
 ## 5. HTML & CSS Practice
 ## 6. JavaScript Basics
