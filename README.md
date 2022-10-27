@@ -47,7 +47,9 @@ As I've said in the previous task, I know HTML and CSS very very well and I didn
 ---
 
 ## 5. HTML & CSS Practice
-![Alt text](task_responsive_web_design/2.png "Screenshot")
+![Alt text](task_html_css_responsibe/1.png "Screenshot")
+![Alt text](task_html_css_responsibe/2.png "Screenshot")
+![Alt text](task_html_css_responsibe/3.png "Screenshot")
 
 Done
 
