@@ -47,7 +47,25 @@ As I've said in the previous task, I know HTML and CSS very very well and I didn
 ---
 
 ## 5. HTML & CSS Practice
+![Alt text](task_responsive_web_design/2.png "Screenshot")
+
+Done
+
+---
+
 ## 6. JavaScript Basics
+![Alt text](task_js_basics/1.png "Screenshot")
+![Alt text](task_js_basics/2.png "Screenshot")
+![Alt text](task_js_basics/3.png "Screenshot")
+![Alt text](task_js_basics/4.png "Screenshot")
+![Alt text](task_js_basics/5.png "Screenshot")
+![Alt text](task_js_basics/6.png "Screenshot")
+
+I've learned a lot of new information about js during these tasks. This was very interesting to learn. And I think this information will be beneficial for me in the future when I'll be doing real projects.
+In conclusion, I can say that it was very hard, but I'm happy that I've solved this challenge.
+
+---
+
 ## 7. Document Object Model
 
 ---
