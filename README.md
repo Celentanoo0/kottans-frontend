@@ -69,6 +69,11 @@ In conclusion, I can say that it was very hard, but I'm happy that I've solved t
 ---
 
 ## 7. Document Object Model
+![Alt text](task_js_dom/1.png "Screenshot")
+
+https://celentanoo0.github.io/DOM-Kottans/
+
+It was an exciting task. I've known a lot new about manipulation with DOM. Also, I've used many methods of js that I've learned in the previous tasks. So I really liked this practice.
 
 ---
 
