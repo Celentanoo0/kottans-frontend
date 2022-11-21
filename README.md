@@ -71,7 +71,7 @@ In conclusion, I can say that it was very hard, but I'm happy that I've solved t
 ## 7. Document Object Model
 ![Alt text](task_js_dom/1.png "Screenshot")
 
-https://celentanoo0.github.io/DOM-Kottans/
+[Demo](https://celentanoo0.github.io/DOM-Kottans/)
 
 It was an exciting task. I've known a lot new about manipulation with DOM. Also, I've used many methods of js that I've learned in the previous tasks. So I really liked this practice.
 
@@ -82,6 +82,12 @@ It was an exciting task. I've known a lot new about manipulation with DOM. Also,
 ---
 
 ## 8. A Tiny JS World
+
+[Demo](https://celentanoo0.github.io/a-tiny-JS-world/)
+[Code](https://github.com/Celentanoo0/a-tiny-JS-world)
+
+I've known a lot new about classes in JS, it was very difficult, but I understand that it's very important and it will be useful in the future
+
 ## 9. Object oriented JS
 ## 10. OOP exercise
 ## 12. Memory pair game
